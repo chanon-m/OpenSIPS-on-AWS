@@ -24,6 +24,8 @@ Reported bugs or requested new feature can be sent to chanonm@live.com
 
 ##OpenSIPS
 
+* Install OpenSIPS and RTPProxy
+
 * Copy opensips.cfg to /etc/opensips
 
 ```
@@ -32,4 +34,4 @@ Reported bugs or requested new feature can be sent to chanonm@live.com
 
 ```
 
-* Restart OpenSIPS
+* Start RTPProxy and OpenSIPS
