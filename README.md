@@ -43,6 +43,7 @@ Reported bugs or requested new feature can be sent to chanonm@live.com
   * Domain = 52.8.42.41
   * Password = 818885566
   * Authorization name = 16265947887
+ 
 ### Dial Plan
   * USA = 1-XXX-XXX-XXXX 
   * Voicemail = 500
