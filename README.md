@@ -22,15 +22,15 @@ Reported bugs or requested new feature can be sent to chanonm@live.com
 
 ```
 
-##OpenSIPS
-
 * Install OpenSIPS and RTPProxy
 
-* Copy opensips.cfg to /etc/opensips
+* Make a file executable and install opensips.cfg
 
 ```
 
-# cp ./opensips-on-aws/opensips.cfg /etc/opensips
+# cd ./opensips-on-aws
+# chmod 755 install.sh
+# ./install.sh
 
 ```
 
