@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 use strict;
 
-my ($public_ip,$private_ip,$voice_mail,$sip_trunk) = @ARGV;
 my @keys = ("PUBLIC_IP","PRIVATE_IP","VOICE_MAIL_IP","SIP_TRUNK_IP");
 my $lines;
 
